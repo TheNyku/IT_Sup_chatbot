@@ -1,0 +1,10 @@
+mcp>=2.0.0
+fastapi>=0.141.0
+uvicorn>=0.52.0
+httpx>=0.28.0
+# IT Helpdesk Assistant
+anthropic>=2.8.0
+voyageai>=0.6.0
+chromadb>=1.5.0
+streamlit>=1.67.0
+python-dotenv>=1.0.0
